@@ -1,0 +1,340 @@
+a {
+    color: #FF5A14 !important;
+}
+
+a:hover, a:focus {
+    color: #993004 !important;
+}
+
+.text-primary, .text-primary a {
+    color: #FF5A14 !important;
+}
+
+.text-primary:hover, .text-primary a:hover {
+    color: #FF5A14 !important;
+}
+
+.sidebar .nav.nav-primary > .nav-item a:hover i, .sidebar .nav.nav-primary > .nav-item a:focus i, .sidebar .nav.nav-primary > .nav-item a[data-toggle=collapse][aria-expanded=true] i, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item a:hover i, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item a:focus i, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item a[data-toggle=collapse][aria-expanded=true] i {
+    color: #FF5A14 !important;
+}
+
+.sidebar .nav.nav-primary > .nav-item a[data-toggle=collapse][aria-expanded=true]:before, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item a[data-toggle=collapse][aria-expanded=true]:before {
+    background: #FF5A14 !important;
+}
+
+.sidebar .nav.nav-primary > .nav-item.active a:before, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item.active a:before {
+    background: #FF5A14 !important;
+}
+
+.sidebar .nav.nav-primary > .nav-item.active a i, .sidebar[data-background-color="white"] .nav.nav-primary > .nav-item.active a i {
+    color: #FF5A14 !important;
+}
+
+.sidebar.sidebar-style-2 .nav.nav-primary > .nav-item.active > a {
+    background: #FF5A14 !important;
+    box-shadow: 4px 4px 10px 0 rgba(0, 0, 0, 0.1), 4px 4px 15px -5px rgba(255, 90, 20, 0.4) !important;
+}
+
+.mail-wrapper .mail-content .inbox-body .email-list .email-list-item.unread:after {
+    background: #FF5A14 !important;
+}
+.logo-header[data-background-color="orange"] {
+    background: #FF5A14 !important;
+}
+
+.navbar-header[data-background-color="orange"] {
+    background: #FF5A14 !important;
+}
+
+.sidebar[data-background-color="orange"] {
+    background: #FF5A14 !important;
+}
+
+.sidebar[data-background-color="orange"] .nav > .nav-item.active > a, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:hover, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:focus, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a[data-toggle=collapse][aria-expanded=true] {
+    color: #FF5A14 !important;
+}
+
+.sidebar[data-background-color="orange"] .nav > .nav-item.active > a p, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a i, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a .caret, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:hover p, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:hover i, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:hover .caret, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:focus p, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:focus i, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a:focus .caret, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a[data-toggle=collapse][aria-expanded=true] p, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a[data-toggle=collapse][aria-expanded=true] i, .sidebar[data-background-color="orange"] .nav > .nav-item.active > a[data-toggle=collapse][aria-expanded=true] .caret {
+    color: #FF5A14 !important;
+}
+
+.card-list .item-list .info-user .username, .card-list .item-list .info-user a.username {
+    color: #FF5A14 !important;
+}
+
+.card-stats .icon-big.icon-primary {
+    background: #FF5A14 !important;
+}
+
+.card-primary {
+    background: #FF5A14 !important;
+}
+
+.card-pricing.card-primary .btn-light {
+    color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary {
+    border-bottom-color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .price-value:before, .card-pricing2.card-primary .value:before {
+    border-left-color: #FF5A14 !important;
+    border-top-color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .price-value, .card-pricing2.card-primary .value {
+    border-right-color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .price-value:after, .card-pricing2.card-primary .value:after {
+    border-right-color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .price-value:after, .card-pricing2.card-primary .value:after {
+    border-bottom-color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .value {
+    color: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary:before {
+    background: #FF5A14 !important;
+}
+
+.card-pricing2.card-primary .price-value, .card-pricing2.card-primary .value {
+    border-left-color: #FF5A14 !important;
+}
+.card-annoucement.card-primary .btn-light {
+    color: #FF5A14 !important;
+}
+
+.accordion.accordion-primary .card .card-header {
+    color: #FF5A14;
+}
+
+.accordion.accordion-primary .card .card-header .btn-link {
+    color: #FF5A14 !important;
+}
+.btnSwitch button[data-color="orange"] {
+    background-color: #FF5A14 !important;
+}
+.form-check [type="checkbox"]:not(:checked) + .form-check-sign:after, .form-check [type="checkbox"]:checked + .form-check-sign:after, .form-check [type="checkbox"] + .form-check-sign:after {
+    color: #FF5A14 !important;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #FF5A14 !important;
+}
+
+.custom-checkbox.checkbox-primary .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #FF5A14 !important;
+}
+.form-floating-label .form-control.filled + .placeholder {
+    color: #FF5A14 !important;
+}
+
+.table-bordered-bd-primary td, .table-bordered-bd-primary th {
+    border: 1px solid #FF5A14 !important;
+}
+
+.table-head-bg-primary thead {
+    border: 1px solid #FF5A14 !important;
+}
+
+.table-head-bg-primary thead th, .table-striped-bg-primary tbody tr:nth-of-type(odd) {
+    background: #FF5A14 !important;
+}
+
+.nav.nav-line .nav-link:hover, .nav.nav-line .nav-link:focus {
+    color: #FF5A14 !important;
+    border-width: 0px;
+}
+
+.nav.nav-line .nav-link.active {
+    color: #FF5A14 !important;
+    border-bottom: 2px solid #FF5A14 !important;
+}
+
+.nav.nav-line.nav-color-primary .nav-link:hover, .nav.nav-line.nav-color-primary .nav-link:focus {
+    color: #FF5A14 !important;
+}
+
+.nav.nav-line.nav-color-primary .nav-link.active {
+    color: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+}
+
+.badge-primary {
+    background: #FF5A14 !important;
+}
+
+.notif-box .notif-center a .notif-icon.notif-primary, .messages-notif-box .notif-center a .notif-icon.notif-primary {
+    background: #FF5A14 !important;
+}
+
+.quick-actions:after {
+    border-bottom-color: #FF5A14 !important;
+}
+
+.quick-actions .quick-actions-header {
+    background: #FF5A14 !important;
+    color: #fff;
+}
+.quick-actions .quick-actions-item {
+
+    color: #FF5A14 !important;
+}
+
+.quick-actions .quick-actions-item:hover {
+    color: #FF5A14 !important;
+}
+
+.quick-actions.quick-actions-primary:after {
+    border-bottom-color: #FF5A14 !important;
+}
+
+.quick-actions.quick-actions-primary .quick-actions-header {
+    background: #FF5A14 !important;
+}
+
+.quick-actions.quick-actions-primary .quick-actions-item {
+    color: #FF5A14 !important;
+}
+
+.alert-primary {
+    border-left: 4px solid #FF5A14 !important;
+}
+
+.alert-primary [data-notify="icon"]:before {
+    background: #FF5A14 !important;
+}
+
+.btn-primary {
+    background: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+    color: #fff !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:disabled {
+    background: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+    color: #fff !important;
+}
+.btn-border.btn-primary {
+    color: #FF5A14 !important;
+    border: 1px solid #FF5A14 !important;
+}
+.btn-link.btn-primary {
+    color: #FF5A14 !important;
+}
+
+.btn-link.btn-primary:hover {
+    color: #FF5A14 !important;
+}
+.nav-pills > li > .nav-link {
+    border: 1px solid #FF5A14;
+}
+
+.nav-pills > li > .nav-link.active {
+    background: #FF5A14 !important;
+}
+.nav-pills.flex-column .nav-link {
+    border: 1px solid #FF5A14;
+}
+
+.nav-pills.flex-column .nav-link.active {
+    background: #FF5A14 !important;
+}
+
+.nav-pills.nav-primary .nav-link.active {
+    background: #FF5A14;
+    border: 1px solid #FF5A14;
+}
+
+.pagination.pg-primary > li.active > a, .pagination.pg-primary > li.active:first-child > a, .pagination.pg-primary > li.active:last-child > a, .pagination.pg-primary > li.active > span, .pagination.pg-primary > li.active:first-child > span, .pagination.pg-primary > li.active:last-child > span {
+    background: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+}
+
+.slider-primary .ui-slider-range {
+    background: #FF5A14 !important;
+}
+
+.feed-item-primary::after {
+    background: #FF5A14 !important;
+}
+
+.timeline-badge.primary {
+    background-color: #FF5A14 !important;
+}
+
+.list-group-bordered .list-group-item.active {
+    background: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+}
+.selectgroup-input:checked + .selectgroup-button {
+    border-color: #FF5A14 !important;
+    z-index: 1;
+    color: #FF5A14 !important;
+    background: rgba(255, 90, 20, 0.25);
+}
+
+.selectgroup-input:focus + .selectgroup-button {
+    border-color: #FF5A14 !important;
+    z-index: 2;
+    color: #FF5A14 !important;
+    box-shadow: 0 0 0 2px rgba(255, 90, 20, 0.25) !important;
+}
+.selectgroup.selectgroup-primary .selectgroup-input:checked + .selectgroup-button {
+    border-color: #FF5A14 !important;
+    color: #FF5A14 !important;
+    background: rgba(255, 90, 20, 0.25) !important;
+}
+
+.selectgroup.selectgroup-primary .selectgroup-input:focus + .selectgroup-button {
+    border-color: #FF5A14 !important;
+    color: #FF5A14 !important;
+    box-shadow: 0 0 0 2px rgba(255, 90, 20, 0.25) !important;
+}
+.imagecheck-input:focus ~ .imagecheck-figure {
+    border-color: #ff5a14 !important;
+    box-shadow: 0 0 0 2px rgba(255, 90, 20, 0.25) !important;
+}
+.loader-primary,
+.is-loading-primary:after {
+    border-color: #FF5A14 !important;
+}
+.bg-primary {
+    background-color: #FF5A14 !important;
+}
+
+.bg-primary-gradient {
+    background: #FF5A14 !important;
+    background: -webkit-linear-gradient(legacy-direction(-45deg), #FF5A14, #FF5A14) !important;
+    background: linear-gradient(-45deg, #FF5A14, #FF5A14) !important;
+}
+.page-item.active .page-link{
+    background: #FF5A14 !important;
+    border-color: #FF5A14 !important;
+}
+.page-item.active a.page-link{
+    color: #FFFFFF !important;
+}
+
+.btn-secondary {
+    background: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+    color: #FF5A14 !important;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:disabled {
+    background: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+    color: #FF5A14 !important;
+}
+.card-header {
+    background: rgba(0,0,0,.05) !important;
+    border-radius: 5px 0 !important;
+}
